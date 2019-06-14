@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/index/index",
+    "pages/order/order"
+  ],
+    "tabBar": {
+      "color": "#aaa",
+      "selectedColor": "#ddc40b",
+      "backgroundColor": "#fff",
+      "borderStyle": "black",
+      "list": [
+        {
+          "pagePath": "pages/home/index",
+          "text": "主页",
+          "iconPath": "images/see.png",
+          "selectedIconPath": "images/see.png"
+        },
+        {
+          "pagePath": "pages/order/order",
+          "text": "致电",
+          "iconPath": "images/tel1.png",
+          "selectedIconPath": "images/tel1.png"
+        },
+        {
+          "pagePath": "pages/index/index",
+          "text": "我的",
+          "iconPath": "images/Tourist.png",
+          "selectedIconPath": "images/Tourist.png"
+        }
+      ]
+    },
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "同道商业",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

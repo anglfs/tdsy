@@ -1,0 +1,20 @@
+<view>  <swiper class="swiper" indicator-dots="true" autoplay="true" interval="5000" duration="1000">  
+   <block wx:for="{{movies}}" wx:for-index="index">  
+    <swiper-item>  
+     <image src="{{item.url}}" class="slide-image" mode="aspectFill"/>  
+    </swiper-item>  
+   </block>  
+  </swiper> 
+</view>
+<view>
+<view class='bb'>广州</view>
+<view  class='bb1'>佛山</view>
+<view  class='bb2'>深圳</view>
+<view  class='bb3'>其他</view>
+<view class='bb4'>同道1</view>
+<view  class='bb5'>同道1</view>
+<view  class='bb6'>同道1</view>
+<view  class='bb7'>同道1</view>
+<view  class='bb8'>同道1</view>
+<view  class='bb9'>同道1</view>
+</view>

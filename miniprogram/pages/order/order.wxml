@@ -1,0 +1,26 @@
+<view>
+ <view id='ppt'>
+ <image class='image1' src='cloud://tdqf-3f4dy.7464-tdqf-3f4dy/123131.jpg'></image></view>
+<view id='view1'>
+<button id='button1' bindtap='pfindcar'>
+杨小姐
+</button>
+<text>为更好的价值而服务！</text>
+<view>
+
+</view>
+
+</view>
+<view id='view2'>
+<button id='button2' bindtap='carfindp'>
+李先生
+</button>
+<text>办公，应有尽有！</text>
+<view>
+<text></text>
+</view>
+
+<text></text>
+</view>
+
+</view>

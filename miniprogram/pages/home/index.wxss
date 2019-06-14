@@ -1,0 +1,108 @@
+.bb{
+  height: 130rpx;
+  width: 130rpx;
+  background-color: red;
+  line-height: 120rpx;
+  text-align: center;
+  float: left;
+  margin-left: 43rpx;
+   margin-top:10rpx; 
+ border-radius:25rpx; 
+}
+.bb1{
+  height: 130rpx;
+  width: 130rpx;
+ background-color: red;
+  line-height: 120rpx;
+  text-align: center;
+    float: left;
+    border-radius:25rpx; 
+    margin-left: 43rpx;
+    margin-top:10rpx; 
+}
+.bb2{
+  height: 130rpx;
+  width: 130rpx;
+ background-color: red;
+  line-height: 120rpx;
+  text-align: center;
+    float: left;
+        border-radius:25rpx; 
+        margin-left: 43rpx;
+         margin-top:10rpx; 
+}
+.bb3{
+  height: 130rpx;
+  width: 130rpx;
+  background-color: red;
+  line-height: 120rpx;
+  text-align: center;
+    float: left;
+        border-radius:25rpx; 
+        margin-left: 43rpx;
+         margin-top:10rpx; 
+}
+.bb4{
+  height: 200rpx;
+  width: 240rpx;
+  background-color: blue;
+  float: left;
+  margin-left: 10rpx;
+   margin-top:10rpx; 
+}
+.bb5{
+  height: 200rpx;
+  width: 240rpx;
+  background-color: blue;
+    float: left;
+    margin-left: 10rpx;
+    margin-top:10rpx; 
+}
+.bb6{
+  height: 200rpx;
+  width: 240rpx;
+  background-color: blue;
+    float: left;
+        margin-left: 10rpx;
+         margin-top:10rpx; 
+}
+.bb7{
+  height: 200rpx;
+  width: 240rpx;
+  background-color: blue;
+    float: left;
+        margin-left: 10rpx;
+         margin-top:10rpx; 
+}
+.bb8{
+  height: 200rpx;
+  width: 240rpx;
+  background-color: blue;
+  float: left;
+  margin-left: 10rpx;
+   margin-top:10rpx; 
+}
+.bb9{
+  height: 200rpx;
+  width: 240rpx;
+  background-color: blue;
+    float: left;
+    margin-left: 10rpx;
+    margin-top:10rpx; 
+}
+.bb10{
+  height: 200rpx;
+  width: 240rpx;
+  background-color: blue;
+    float: left;
+        margin-left: 10rpx;
+         margin-top:10rpx; 
+}
+.swiper {
+ height: 400rpx;
+ width: 100%;
+}
+.swiper image {
+ height: 100%;
+ width: 100%;
+}
